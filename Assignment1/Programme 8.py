@@ -1,0 +1,5 @@
+ball=input('Enter the ball speed:')
+ball=float(ball)
+club=input('Enter the club speed:')
+club=float(club)
+print('The smash factor is:',ball/club)

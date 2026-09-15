@@ -1,0 +1,8 @@
+name=input('What is your name:')
+classname=input('What is your classname:')
+age=input('What is your age:')
+age=int(age)
+print('Your name is',name,'your classname is',classname,'and your age is',age)
+print(name)
+print(classname)
+print(age)

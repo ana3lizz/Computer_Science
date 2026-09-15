@@ -1,0 +1,5 @@
+lenght=input('Enter the lenght of the rectangle:')
+lenght=float(lenght)
+width=input('Enter the width of the rectangle:')
+width=float(width)
+print('The parimeter of the rectangle is:',2*lenght+2*width)

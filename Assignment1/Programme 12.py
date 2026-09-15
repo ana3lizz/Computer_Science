@@ -1,0 +1,6 @@
+cm=input('Enter your height in cm:')
+cm=float(cm)
+inches=float(cm/2.54)
+feet=int(inches/12)
+inch=float(cm-feet*12*2.54)
+print('your height is',feet,'feet  and',inch,'inches')

@@ -1,0 +1,8 @@
+p=input('Enter your starting amount')
+p=float(p)
+r=input('What is the interest rate')
+r=float(r)
+t=input('How many years')
+t=float(t)
+l=int(p*r*t)
+print('Your total interest is',l,',and your total balance is',l+p)
