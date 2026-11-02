@@ -2,4 +2,4 @@ Your code is excellent.
 
 Please learn off how to answer Q3.
 
-Please see the Housekeeping pdf
+Please see the Operators in Python - Housekeeping pdf
