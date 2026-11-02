@@ -1,0 +1,5 @@
+val = input('Enter your first value: ')
+val = float(val)
+val2 = input('Enter your second value: ')
+val2 = float(val2)
+print(val2 , val)

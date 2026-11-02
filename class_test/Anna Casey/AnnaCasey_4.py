@@ -1,0 +1,12 @@
+n1 = input('Enter the first number: ')
+n1 = float(n1)
+n2 = input('Enter the second number: ')
+n2 = float(n2)
+n3 = input('Enter the third number: ')
+n3 = float(n3)
+n4 = input('Enter the fourth number: ')
+n4 = float(n4)
+n5 = input('Enter the fifth number: ')
+n5 = float(n5)
+average = (n1 + n2 + n3 + n4 + n5) / 5
+print(average)
