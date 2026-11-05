@@ -1,0 +1,5 @@
+print('C:\\Users\\Bob\\Desktop\\report.docx')
+print('here\'s an example of a single-quote escape')
+print('This is an "escape" of a double-quote')
+print('"I can\'t wait for dinner", said tom')
+print('I can\'t believe it!')

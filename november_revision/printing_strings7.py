@@ -1,0 +1,1 @@
+print("Item		Price	Quantity\nApple		$1.00	5\nBanana		$0.50	12")
